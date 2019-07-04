@@ -1,0 +1,4 @@
+
+export const SUBMITINPUT = 'SUBMITINPUT'
+export const SUBMITINPUT1 = 'SUBMITINPUT1'
+export const SUBMITINPUT2 = 'SUBMITINPUT2'
